@@ -1,6 +1,9 @@
-Music: 6.14.50  
+YouTube: 18.23.35  
+Twitch: 15.4.1  
+Tiktok: 30.8.1  
+Reddit: 2023.31.0  
 Messenger: 421.0.0.12.61  
-Instagram: 275.0.0.27.98  
+Twitter: 10.2.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
