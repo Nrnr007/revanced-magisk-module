@@ -1,5 +1,5 @@
-YouTube: 19.11.43  
 Twitch: 16.9.1  
+YouTube: 19.11.43  
 Twitter: 10.42.0-release.0  
 Reddit: 2024.21.0  
 
@@ -10,6 +10,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.9.0.apk  
-Patches: ReVanced/revanced-patches-4.8.1.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.8.1)  
+Integrations: ReVanced/revanced-integrations-1.9.1.apk  
+Patches: ReVanced/revanced-patches-4.8.2.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.8.2)  
